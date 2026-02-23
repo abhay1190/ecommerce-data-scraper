@@ -53,7 +53,4 @@ Contributions are what make the open-source community such an amazing place to l
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-
-## 📧 Contact
-
 Project Link: https://github.com/abhay1190/ecommerce-data-scraper
